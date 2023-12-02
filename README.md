@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sohini-2002
-- 👀 I’m interested in JAVA
-- 🌱 I’m currently learning JAVA
+- 👀 I’m interested in JAVA and Python
+- 🌱 I’m currently learning JAVA and Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me nirnayray1977@gmail.com
 
